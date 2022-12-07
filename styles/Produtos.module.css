@@ -1,0 +1,20 @@
+.products{
+  display: flex;
+  flex-direction: column;
+  max-width: 750px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 300px;
+}
+
+.products_conteiner{
+  border: rgb(73, 71, 71) solid 2px;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.img{
+  width: 300px;
+  border:rgb(73, 71, 71) solid 2px;
+}
